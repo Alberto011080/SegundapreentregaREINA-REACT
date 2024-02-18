@@ -11,6 +11,7 @@ const Test = ({mensaje}) => {
             <p>Mejor que bien</p>
             <button onClick={() => setCount(count +1) }>SUMAR</button>
             <button onClick={() => setCount(count -1) }>RESTAR</button>
+            <img src="../../public/cart-check-fill.svg" alt="carrito" height={50}/>
             
             <p>{count}</p>
         </div>
