@@ -1,0 +1,4 @@
+{
+    "editor.inlayHints.enabled": "off",
+    "workbench.editor.empty.hint": "hidden"
+}
