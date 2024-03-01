@@ -19,8 +19,6 @@ export const ItemCount = () => {
         console.log("Producto agregado al carrito")
     }
 
-
-
     return (
         <div className="container mx-auto mt-8">
             <div className="flex items-center justify-center space-x-4">
